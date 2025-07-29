@@ -17,6 +17,8 @@ Flask web app designed to help you estimate your household lighting energy consu
 
 ## Demo
 
+<img width="1470" height="799" alt="Screenshot 2025-07-28 at 19 36 36" src="https://github.com/user-attachments/assets/0423cba6-d93a-4adb-b308-00a77fbc905d" />
+
 
 ---
 
